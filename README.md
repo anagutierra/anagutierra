@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou a Ana Beatriz!
 
-- 🌱 Atualmente estou estudando HTML e CSS.
+- 📚 Atualmente estou estudando HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/anagutierra">
